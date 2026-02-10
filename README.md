@@ -6,6 +6,8 @@ An AI agent skill that performs a comprehensive 30-point security audit on codeb
 
 Works with any AI coding agent that supports custom skills, including GitHub Copilot, Claude, Windsurf, and others.
 
+> Read the blogpost here: https://ladydev.me/secure-vibecoding
+
 ## What It Does
 
 This skill audits your codebase for security issues across three categories:
