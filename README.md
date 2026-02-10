@@ -1,5 +1,7 @@
 # Vibe Security Audit Skill
 
+![Vibe Security Audit](assets/banner.svg)
+
 An AI agent skill that performs a comprehensive 30-point security audit on codebases, specifically designed to catch vulnerabilities common in AI-assisted ("vibe coded") projects.
 
 Works with any AI coding agent that supports custom skills, including GitHub Copilot, Claude, Windsurf, and others.
