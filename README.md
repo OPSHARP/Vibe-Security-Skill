@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,20,12,4,0&height=220&section=header&text=Vibe%20Security%20Audit%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%9B%A1%EF%B8%8F%2030-Point%20Deep%20Security%20Audit%20for%20AI%20%E2%80%A2%20Vibe-Coded%20Projects&descAlignY=62&descAlign=50" width="100%" alt="Vibe Security Audit Skill 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/Vibe-Security-Skill">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="95" height="95" alt="Vibe Security Audit Skill 3D Icon" />
@@ -134,8 +131,4 @@ MIT — See [LICENSE](LICENSE) for details.
 
 Created by [Kedasha](https://github.com/LadyKerr) | [@itsthatladydev](https://www.instagram.com/itsthatlady.dev/)
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,20,12,4,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
